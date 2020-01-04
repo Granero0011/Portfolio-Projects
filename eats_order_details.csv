@@ -1,0 +1,115 @@
+Territory,Restaurant ID,Order ID,Order Time,Order Status,Item Name,Customizations,Special Instructions,Item Price,Order Price,Currency
+46,ef745ba6-2725-4f9d-aeac-a7eaa357cf34,ce6faa34-26e9-4f00-8c4a-38e40a29cdb1,2019-11-29 23:43:59 +0000 UTC,completed,Takoyaki,,,5.75,3.24,USD
+46,ef745ba6-2725-4f9d-aeac-a7eaa357cf34,ce6faa34-26e9-4f00-8c4a-38e40a29cdb1,2019-11-29 23:43:59 +0000 UTC,completed,Gyoza,,,4.75,3.24,USD
+46,a9de10a7-4e6b-4144-a78a-64cffbfffeb5,59816e82-47b9-4a45-8e8b-c42949344aca,2019-09-28 02:57:22 +0000 UTC,completed,Baklava,,,3.99,16.99,USD
+46,a9de10a7-4e6b-4144-a78a-64cffbfffeb5,59816e82-47b9-4a45-8e8b-c42949344aca,2019-09-28 02:57:22 +0000 UTC,completed,Lamb Gyro Sandwich,"Extra White Sauce, Extra Hot Sauce",,7.99,16.99,USD
+46,a9de10a7-4e6b-4144-a78a-64cffbfffeb5,59816e82-47b9-4a45-8e8b-c42949344aca,2019-09-28 02:57:22 +0000 UTC,completed,Diet Coke,,,1.3,16.99,USD
+46,ffc96211-34f8-4a85-94dd-59fd6a0ef939,a84b6e45-7129-41a7-96f8-0ab93932d797,2019-09-25 20:30:25 +0000 UTC,completed,Milkshake,Salted Caramel (+ 45 calories),,4.79,18.73,USD
+46,ffc96211-34f8-4a85-94dd-59fd6a0ef939,a84b6e45-7129-41a7-96f8-0ab93932d797,2019-09-25 20:30:25 +0000 UTC,completed,Bottled Soda,Coke,,2.69,18.73,USD
+46,ffc96211-34f8-4a85-94dd-59fd6a0ef939,a84b6e45-7129-41a7-96f8-0ab93932d797,2019-09-25 20:30:25 +0000 UTC,completed,Little Bacon Cheeseburger,"Mayo (+110 calories), Lettuce (+5 calories), Pickle (+5 calories), Grilled Onions (+ 10 calories), Ketchup (+30 calories)",,7.72,18.73,USD
+46,590ae853-9c43-43cf-bc57-60b8234beef5,1a5cf399-cd93-488a-8d5a-3cabcbab8e4b,2019-09-18 04:33:55 +0000 UTC,completed,Onion Rings,,,3.83,13.29,USD
+46,590ae853-9c43-43cf-bc57-60b8234beef5,1a5cf399-cd93-488a-8d5a-3cabcbab8e4b,2019-09-18 04:33:55 +0000 UTC,completed,Bacon Ultimate Cheeseburger™,,,6.95,13.29,USD
+46,edfd2846-5396-431e-bf07-41467cea76a5,3cc53ac1-2e9b-46ba-825b-35e1d0302c38,2019-09-10 21:29:14 +0000 UTC,completed,Medium French Fries,"Salt, Medium French Fries",,2.39,11.36,USD
+46,edfd2846-5396-431e-bf07-41467cea76a5,3cc53ac1-2e9b-46ba-825b-35e1d0302c38,2019-09-10 21:29:14 +0000 UTC,completed,Classic Chicken Sandwich,"Pickle, Crispy Chicken Filet, Regular Bun",,3.99,11.36,USD
+46,a4cebaa6-a12f-4b10-a66a-ec2db6436862,c3ce5129-d083-4c43-b94d-f815da54481a,2019-09-07 05:00:35 +0000 UTC,completed,Spicy Sriracha Burger,,,4.79,13.8,USD
+46,a4cebaa6-a12f-4b10-a66a-ec2db6436862,c3ce5129-d083-4c43-b94d-f815da54481a,2019-09-07 05:00:35 +0000 UTC,completed,Mini Churros (5),,,1.59,13.8,USD
+46,a4cebaa6-a12f-4b10-a66a-ec2db6436862,c3ce5129-d083-4c43-b94d-f815da54481a,2019-09-07 05:00:35 +0000 UTC,completed,Onion Rings,,,3.19,13.8,USD
+46,a73cc440-3470-4bb1-a3d4-68edebb448ba,cfa2a9ac-fb84-441d-8ec8-d6361ae97617,2019-08-18 19:56:47 +0000 UTC,completed,Sonic Blast,"Medium, Oreo",,3.59,9.89,USD
+46,edfd2846-5396-431e-bf07-41467cea76a5,439e6d94-7243-4940-82f4-11ebccee4d10,2019-08-05 03:45:12 +0000 UTC,completed,Snack Stroopwafel McFlurry,"Snack, Extra Caramel Topping",,2.19,15.13,USD
+46,edfd2846-5396-431e-bf07-41467cea76a5,439e6d94-7243-4940-82f4-11ebccee4d10,2019-08-05 03:45:12 +0000 UTC,completed,Tomato and Mozzarella Chicken Crispy,,,5.59,15.13,USD
+46,edfd2846-5396-431e-bf07-41467cea76a5,439e6d94-7243-4940-82f4-11ebccee4d10,2019-08-05 03:45:12 +0000 UTC,completed,Cheesy Bacon Fries,,,3.29,15.13,USD
+46,edfd2846-5396-431e-bf07-41467cea76a5,80256c3d-2e60-4929-bedd-7bf1fd4db639,2019-06-28 05:18:29 +0000 UTC,completed,Grand McExtreme Bacon Burger - Hashbrown,"Medium, French Fries, MIX by Sprite Tropic Berry, No Dressing",,7.59,15.39,USD
+46,edfd2846-5396-431e-bf07-41467cea76a5,80256c3d-2e60-4929-bedd-7bf1fd4db639,2019-06-28 05:18:29 +0000 UTC,completed,Snack Stroopwafel McFlurry,"Small, Extra Caramel Topping",,2.19,15.39,USD
+7,161560ee-be01-4f60-b8cf-a3745e1f182e,3dccee00-9c38-4520-9226-daa8e0ea9d77,2019-03-01 02:07:58 +0000 UTC,completed,French Dip Sandwich,Mac & Cheese,,9.99,6.24,USD
+7,161560ee-be01-4f60-b8cf-a3745e1f182e,77e65101-0ce4-481c-82a8-8a0b7c01c4ca,2019-02-13 21:28:34 +0000 UTC,completed,Lemonade,Peach Puree,,2.69,17.92,USD
+7,161560ee-be01-4f60-b8cf-a3745e1f182e,77e65101-0ce4-481c-82a8-8a0b7c01c4ca,2019-02-13 21:28:34 +0000 UTC,completed,House-Baked Cookies,Chocolate Chip,,2.35,17.92,USD
+7,161560ee-be01-4f60-b8cf-a3745e1f182e,77e65101-0ce4-481c-82a8-8a0b7c01c4ca,2019-02-13 21:28:34 +0000 UTC,completed,French Dip Sandwich,Mac & Cheese,,9.99,17.92,USD
+7,161560ee-be01-4f60-b8cf-a3745e1f182e,f29f3c41-2bc6-4b1b-ab47-0176216f8137,2019-02-12 20:26:05 +0000 UTC,completed,Lemonade,Strawberry Puree,,2.69,17.04,USD
+7,161560ee-be01-4f60-b8cf-a3745e1f182e,f29f3c41-2bc6-4b1b-ab47-0176216f8137,2019-02-12 20:26:05 +0000 UTC,completed,Horseradish Roast Beef & Cheddar,Mac & Cheese,,9.19,17.04,USD
+7,161560ee-be01-4f60-b8cf-a3745e1f182e,f29f3c41-2bc6-4b1b-ab47-0176216f8137,2019-02-12 20:26:05 +0000 UTC,completed,House-Baked Cookies,Chocolate Chip,,2.35,17.04,USD
+7,5134148e-1300-4400-8747-e7db8ea6d6cd,6ce0be59-0593-447f-9de8-be4fad44f593,2019-02-03 22:26:39 +0000 UTC,completed,Deep Fried Oreos,,,4,13.02,USD
+7,5134148e-1300-4400-8747-e7db8ea6d6cd,6ce0be59-0593-447f-9de8-be4fad44f593,2019-02-03 22:26:39 +0000 UTC,completed,Deep Fried Oreos,,,4,13.02,USD
+7,5134148e-1300-4400-8747-e7db8ea6d6cd,6ce0be59-0593-447f-9de8-be4fad44f593,2019-02-03 22:26:39 +0000 UTC,completed,Ramune,Original Bubble Gum,,4,13.02,USD
+7,5134148e-1300-4400-8747-e7db8ea6d6cd,731ffc9d-afc6-4b25-af03-e0e05ebffeeb,2019-01-24 20:12:37 +0000 UTC,completed,Tan Tan Ramen,,,14,27.13,USD
+7,5134148e-1300-4400-8747-e7db8ea6d6cd,731ffc9d-afc6-4b25-af03-e0e05ebffeeb,2019-01-24 20:12:37 +0000 UTC,completed,Ramune,Strawberry,,4,27.13,USD
+7,5134148e-1300-4400-8747-e7db8ea6d6cd,731ffc9d-afc6-4b25-af03-e0e05ebffeeb,2019-01-24 20:12:37 +0000 UTC,completed,Japanese Mushi Cheesecake,,,7,27.13,USD
+7,4e13863e-8307-4673-a67b-a37cf638b329,8b8bf9e8-ecea-4dca-8255-0acbb83bd5ba,2018-06-21 07:22:38 +0000 UTC,completed,Big Mac Meal,"Large, French Fries, Fanta Orange",,6.59,16.13,USD
+7,4e13863e-8307-4673-a67b-a37cf638b329,8b8bf9e8-ecea-4dca-8255-0acbb83bd5ba,2018-06-21 07:22:38 +0000 UTC,completed,Oreo McFlurry,"Small, Add Whipped Cream, Add Caramel Topping",,1.89,16.13,USD
+7,e21cb6e6-39dc-4d42-975d-ef9b0d2c0de6,23ab1544-4c0a-43f4-a518-064155de1442,2018-06-20 00:28:17 +0000 UTC,completed,Lamb Curry,,,12.99,22.57,USD
+7,e21cb6e6-39dc-4d42-975d-ef9b0d2c0de6,23ab1544-4c0a-43f4-a518-064155de1442,2018-06-20 00:28:17 +0000 UTC,completed,Mango Shake,,,2.99,22.57,USD
+7,d33dac9f-a8c5-4a6e-9dbf-17f7618e6a84,018e457d-27dc-427f-83cf-8a88ed1a3b8d,2018-06-19 16:19:28 +0000 UTC,completed,La Classique (Savory Crepes),,,12,30.46,USD
+7,d33dac9f-a8c5-4a6e-9dbf-17f7618e6a84,018e457d-27dc-427f-83cf-8a88ed1a3b8d,2018-06-19 16:19:28 +0000 UTC,completed,La Nutella (Sweet Crepes),,,6.4,30.46,USD
+7,d33dac9f-a8c5-4a6e-9dbf-17f7618e6a84,018e457d-27dc-427f-83cf-8a88ed1a3b8d,2018-06-19 16:19:28 +0000 UTC,completed,Real Fruit Smoothies,Strawberry,,4.75,30.46,USD
+7,5cdc4d45-7aec-49ff-a350-78dbef0522b2,bd15c16d-b3e9-4cc0-add9-d1139862be46,2018-06-19 15:50:42 +0000 UTC,canceled,Quiche,,,4.5,0,USD
+7,5cdc4d45-7aec-49ff-a350-78dbef0522b2,bd15c16d-b3e9-4cc0-add9-d1139862be46,2018-06-19 15:50:42 +0000 UTC,canceled,Ham and Cheese Scone,,,2.5,0,USD
+7,5cdc4d45-7aec-49ff-a350-78dbef0522b2,bd15c16d-b3e9-4cc0-add9-d1139862be46,2018-06-19 15:50:42 +0000 UTC,canceled,Prosciutto and Brie Croissant,,,3.9,0,USD
+7,5cdc4d45-7aec-49ff-a350-78dbef0522b2,bd15c16d-b3e9-4cc0-add9-d1139862be46,2018-06-19 15:50:42 +0000 UTC,canceled,Soda,Coke,,2.17,0,USD
+7,5cdc4d45-7aec-49ff-a350-78dbef0522b2,bd15c16d-b3e9-4cc0-add9-d1139862be46,2018-06-19 15:50:42 +0000 UTC,canceled,Chocolate Croissant,,,3.25,0,USD
+7,4e13863e-8307-4673-a67b-a37cf638b329,2fac15f2-5fca-4c16-ba56-7866be91a865,2018-06-19 02:29:02 +0000 UTC,completed,Crispy Buttermilk Chicken Meal,French Fries,,6.89,1.69,USD
+7,4e13863e-8307-4673-a67b-a37cf638b329,2fac15f2-5fca-4c16-ba56-7866be91a865,2018-06-19 02:29:02 +0000 UTC,completed,Caramel Sundae,Extra Caramel Topping,,1.19,1.69,USD
+7,4e13863e-8307-4673-a67b-a37cf638b329,f7311373-1aab-46af-9244-83efb485e7ec,2018-06-19 01:55:41 +0000 UTC,completed,Crispy Buttermilk Chicken Meal,"Large, French Fries, Coke®",,6.89,14.92,USD
+7,4e13863e-8307-4673-a67b-a37cf638b329,f7311373-1aab-46af-9244-83efb485e7ec,2018-06-19 01:55:41 +0000 UTC,completed,Caramel Sundae,Extra Caramel Topping,,1.19,14.92,USD
+7,4e13863e-8307-4673-a67b-a37cf638b329,1ad8f55e-3408-47e6-bf6c-4c80b2ea7ce9,2018-06-17 01:38:50 +0000 UTC,completed,Crispy Buttermilk Chicken Meal,"Large, French Fries, Coke®",,6.89,17.62,USD
+7,4e13863e-8307-4673-a67b-a37cf638b329,1ad8f55e-3408-47e6-bf6c-4c80b2ea7ce9,2018-06-17 01:38:50 +0000 UTC,completed,13 Cookie Tote,"Chocolate Chip Cookie, Chocolate Chip Cookie, Chocolate Chip Cookie, Chocolate Chip Cookie, Chocolate Chip Cookie, Chocolate Chip Cookie, Chocolate Chip Cookie, Chocolate Chip Cookie, Chocolate Chip Cookie, Chocolate Chip Cookie, Chocolate Chip Cookie, Chocolate Chip Cookie, Chocolate Chip Cookie",,3.99,17.62,USD
+7,0739bf49-9486-4ca0-8410-2aee21d007c5,cf658cf1-6167-4e32-9f03-e89a5c103158,2018-06-17 01:04:35 +0000 UTC,unfulfilled,6 pc. Chicken Only,Original,"Ketchup, Mayo , honey sauce please",13,0,USD
+7,0739bf49-9486-4ca0-8410-2aee21d007c5,cf658cf1-6167-4e32-9f03-e89a5c103158,2018-06-17 01:04:35 +0000 UTC,unfulfilled,Potato Wedges,Individual,,3.1,0,USD
+7,0739bf49-9486-4ca0-8410-2aee21d007c5,cf658cf1-6167-4e32-9f03-e89a5c103158,2018-06-17 01:04:35 +0000 UTC,unfulfilled,Chocolate Chip Cookies,Three Pieces,,1.5,0,USD
+7,b2eb5990-de1b-4c93-8889-138b695e89ec,c72e56b4-c516-43a8-b3de-3b18773a4624,2018-06-16 18:10:53 +0000 UTC,completed,Bacon Cheeseburger,"All The Way (Ketchup, Mustard, Grilled Onions, Grilled Mushrooms, Mayo, Pickle, Tomato), Lettuce",,8.99,20.15,USD
+7,b2eb5990-de1b-4c93-8889-138b695e89ec,c72e56b4-c516-43a8-b3de-3b18773a4624,2018-06-16 18:10:53 +0000 UTC,completed,Milkshake,"Salted Caramel, Peanut Butter, Vanilla",,4.79,20.15,USD
+7,4e13863e-8307-4673-a67b-a37cf638b329,1bf7d607-3a68-4645-8a92-5f523d119e88,2018-06-16 03:11:48 +0000 UTC,completed,Crispy Buttermilk Chicken Meal,"Large, French Fries, Coke®",,6.89,14.92,USD
+7,4e13863e-8307-4673-a67b-a37cf638b329,1bf7d607-3a68-4645-8a92-5f523d119e88,2018-06-16 03:11:48 +0000 UTC,completed,Caramel Sundae,Extra Caramel Topping,,1.19,14.92,USD
+7,2024110c-c63d-4a6d-a789-57ec5c97fc06,0df7ffd5-8183-4104-bfc0-215dc987c33e,2018-06-13 02:49:33 +0000 UTC,completed,Build Your Own Pizza,"Classic Dough, White Cream Sauce, Shredded Mozzarella, Ovalini Mozzarella, Feta Cheese, Goat Cheese, Applewood Bacon, Black Olives, Mushrooms, Spinach, Pesto Drizzle",,9.95,20.96,USD
+7,2024110c-c63d-4a6d-a789-57ec5c97fc06,0df7ffd5-8183-4104-bfc0-215dc987c33e,2018-06-13 02:49:33 +0000 UTC,completed,San Pellegrino Aranciata,,,2.5,20.96,USD
+7,2024110c-c63d-4a6d-a789-57ec5c97fc06,0df7ffd5-8183-4104-bfc0-215dc987c33e,2018-06-13 02:49:33 +0000 UTC,completed,Chocolate  Cookie,,,2,20.96,USD
+7,b2eb5990-de1b-4c93-8889-138b695e89ec,604f5fb8-59ec-4e2d-803b-73ce1577979e,2018-06-13 02:10:49 +0000 UTC,canceled,Bacon Burger,"All The Way (Ketchup, Mustard, Grilled Onions, Grilled Mushrooms, Mayo, Pickle, Tomato)",,8.29,0,USD
+7,b2eb5990-de1b-4c93-8889-138b695e89ec,604f5fb8-59ec-4e2d-803b-73ce1577979e,2018-06-13 02:10:49 +0000 UTC,canceled,Milkshake,"Oreo® Cookies, Salted Caramel, Vanilla",,4.79,0,USD
+7,27ad1001-5557-417d-8c78-a404d1577cac,af158c96-0108-4582-8c33-e77e73ee4028,2018-05-27 02:37:34 +0000 UTC,completed,Spinach Pizza,"6"" Pizza",,6.5,16.44,USD
+7,27ad1001-5557-417d-8c78-a404d1577cac,af158c96-0108-4582-8c33-e77e73ee4028,2018-05-27 02:37:34 +0000 UTC,completed,Lava Cake,,,4,16.44,USD
+7,404460be-c273-43b1-94d4-0fd9f227d144,80381f0a-d341-4f33-928d-2000ec0416ed,2018-05-17 21:58:22 +0000 UTC,completed,Beef Pie,,,4.99,19.81,USD
+7,404460be-c273-43b1-94d4-0fd9f227d144,80381f0a-d341-4f33-928d-2000ec0416ed,2018-05-17 21:58:22 +0000 UTC,completed,Chebureki,,,3.99,19.81,USD
+7,404460be-c273-43b1-94d4-0fd9f227d144,80381f0a-d341-4f33-928d-2000ec0416ed,2018-05-17 21:58:22 +0000 UTC,completed,Soda Drinks,,,1.5,19.81,USD
+7,404460be-c273-43b1-94d4-0fd9f227d144,80381f0a-d341-4f33-928d-2000ec0416ed,2018-05-17 21:58:22 +0000 UTC,completed,Eclair,,,2.99,19.81,USD
+7,404460be-c273-43b1-94d4-0fd9f227d144,9ee89aa7-c082-4017-b693-2f524616f7ea,2018-04-28 18:55:52 +0000 UTC,completed,Chebureki,,,3.99,22.01,USD
+7,404460be-c273-43b1-94d4-0fd9f227d144,9ee89aa7-c082-4017-b693-2f524616f7ea,2018-04-28 18:55:52 +0000 UTC,completed,Beef Pie,,,4.99,22.01,USD
+7,404460be-c273-43b1-94d4-0fd9f227d144,9ee89aa7-c082-4017-b693-2f524616f7ea,2018-04-28 18:55:52 +0000 UTC,completed,Crepes,,Strawberries,3.49,22.01,USD
+7,404460be-c273-43b1-94d4-0fd9f227d144,9ee89aa7-c082-4017-b693-2f524616f7ea,2018-04-28 18:55:52 +0000 UTC,completed,Soda Drinks,,"Sprite , Coca Cola ",1.5,22.01,USD
+7,404460be-c273-43b1-94d4-0fd9f227d144,9ee89aa7-c082-4017-b693-2f524616f7ea,2018-04-28 18:55:52 +0000 UTC,completed,Soda Drinks,,"Sprite , Coca Cola ",1.5,22.01,USD
+7,0739bf49-9486-4ca0-8410-2aee21d007c5,2407554b-3907-4fa0-b563-b2ac74ad1569,2018-04-19 23:49:39 +0000 UTC,completed,6 pc. Chicken Only,Crispy,"Actually, can I have 3 crispy and 3 original?
++ all the sauces please ( honey mustard, Mayo , ketchup etc...)",13,22.74,USD
+7,0739bf49-9486-4ca0-8410-2aee21d007c5,2407554b-3907-4fa0-b563-b2ac74ad1569,2018-04-19 23:49:39 +0000 UTC,completed,Potato Wedges,Individual,,3.1,22.74,USD
+7,0739bf49-9486-4ca0-8410-2aee21d007c5,2e9dcbf9-2b1a-477a-b352-4eaeb87c4b3a,2018-04-19 03:05:27 +0000 UTC,unfulfilled,Potato Wedges,Individual,,3.1,0,USD
+7,0739bf49-9486-4ca0-8410-2aee21d007c5,2e9dcbf9-2b1a-477a-b352-4eaeb87c4b3a,2018-04-19 03:05:27 +0000 UTC,unfulfilled,6 pc. Chicken Only,Crispy,"Can I have a lot of different sauces? Honey, Mayo, ketchup...",13,0,USD
+7,56a751f1-eaac-4718-aec0-8160fc7b6c00,de79d7ca-6996-4f31-8852-bc5249aca697,2018-04-10 03:47:37 +0000 UTC,completed,Shrimp,1/2 lb.,,8.99,,USD
+7,56a751f1-eaac-4718-aec0-8160fc7b6c00,de79d7ca-6996-4f31-8852-bc5249aca697,2018-04-10 03:47:37 +0000 UTC,completed,French Fries,Half,,1.69,,USD
+7,56a751f1-eaac-4718-aec0-8160fc7b6c00,de79d7ca-6996-4f31-8852-bc5249aca697,2018-04-10 03:47:37 +0000 UTC,completed,American Potato Salad,Half Pound,,2.49,,USD
+7,56a751f1-eaac-4718-aec0-8160fc7b6c00,81a950de-0618-40e7-bd68-9d19f71b70cb,2018-04-10 03:20:41 +0000 UTC,canceled,Shrimp,1/2 lb.,,8.99,,USD
+7,4e13863e-8307-4673-a67b-a37cf638b329,65d36058-6538-4c13-86c1-51ccfd6998c2,2018-04-07 08:29:30 +0000 UTC,completed,SCR Sweet BBQ Bacon Artisan-Crispy Meal,"Large, French Fries, Fanta Orange, Extra Salt",,7.49,,USD
+7,4e13863e-8307-4673-a67b-a37cf638b329,65d36058-6538-4c13-86c1-51ccfd6998c2,2018-04-07 08:29:30 +0000 UTC,completed,Caramel Sundae,Extra Caramel Topping,,1.19,,USD
+7,404460be-c273-43b1-94d4-0fd9f227d144,35239322-7c05-4edd-82a4-44bc6509e92f,2018-04-07 07:56:37 +0000 UTC,unfulfilled,Spinach Pie,,,4.49,,USD
+7,404460be-c273-43b1-94d4-0fd9f227d144,35239322-7c05-4edd-82a4-44bc6509e92f,2018-04-07 07:56:37 +0000 UTC,unfulfilled,Beef Pie,,,4.99,,USD
+7,404460be-c273-43b1-94d4-0fd9f227d144,35239322-7c05-4edd-82a4-44bc6509e92f,2018-04-07 07:56:37 +0000 UTC,unfulfilled,Crepes,,,3.49,,USD
+7,cc975a8d-d022-4422-a6ea-2b99b13ff16b,2de2377a-43d1-4ce1-b30d-15a3ec2a5cb0,2018-03-30 11:37:27 +0000 UTC,completed,Bacon Temptation Omelette,Newyork Cheesecake Pancakes,,9.5,,USD
+7,4e13863e-8307-4673-a67b-a37cf638b329,041cee7c-6a9a-4d4b-8c54-7a2f97bc6d8d,2018-03-29 03:50:21 +0000 UTC,completed,Buttermilk Chicken-Crispy,,,4.69,,USD
+7,4e13863e-8307-4673-a67b-a37cf638b329,041cee7c-6a9a-4d4b-8c54-7a2f97bc6d8d,2018-03-29 03:50:21 +0000 UTC,completed,French Fries,Small,,1.49,,USD
+7,4e13863e-8307-4673-a67b-a37cf638b329,9f90f389-730b-41a7-ace0-fce244b35f80,2018-03-27 01:53:48 +0000 UTC,completed,Big Mac Meal,"Large, French Fries, Coke®, Extra Salt",,6.59,,USD
+7,4e13863e-8307-4673-a67b-a37cf638b329,9f90f389-730b-41a7-ace0-fce244b35f80,2018-03-27 01:53:48 +0000 UTC,completed,Caramel Sundae,Extra Caramel Topping,,1.19,,USD
+7,4e13863e-8307-4673-a67b-a37cf638b329,f9bc05ac-7100-4569-81ab-3f4d59705788,2018-02-17 08:21:14 +0000 UTC,completed,Crispy Buttermilk Chicken Meal,"Large, Medium French Fries, Coke®, Salt",,6.89,,USD
+7,4e13863e-8307-4673-a67b-a37cf638b329,f9bc05ac-7100-4569-81ab-3f4d59705788,2018-02-17 08:21:14 +0000 UTC,completed,Caramel Sundae,"Caramel Topping, Caramel Topping",,1,,USD
+7,4e13863e-8307-4673-a67b-a37cf638b329,72972637-7283-4485-98fc-3fd23343280c,2018-02-11 05:10:11 +0000 UTC,completed,Crispy Buttermilk Chicken Meal,"Large, Medium French Fries, Coke®, Salt",,6.89,,USD
+7,4e13863e-8307-4673-a67b-a37cf638b329,72972637-7283-4485-98fc-3fd23343280c,2018-02-11 05:10:11 +0000 UTC,completed,Caramel Sundae,"Caramel Topping, Caramel Topping",,1,,USD
+7,4e13863e-8307-4673-a67b-a37cf638b329,f8fb610c-a5bf-4186-abe5-92539145332a,2018-02-09 20:21:16 +0000 UTC,completed,Crispy Buttermilk Chicken Meal,"Large, Medium French Fries, Coke®",,6.89,,USD
+7,4e13863e-8307-4673-a67b-a37cf638b329,f8fb610c-a5bf-4186-abe5-92539145332a,2018-02-09 20:21:16 +0000 UTC,completed,Caramel Sundae,Caramel Topping,,1,,USD
+7,4e13863e-8307-4673-a67b-a37cf638b329,505a465b-7607-47a0-b1b1-b56f9e10c4f3,2017-11-04 09:15:41 +0000 UTC,completed,Big Mac® Meal,"Medium, Fries, Ranch, Sprite®",,6.39,,USD
+7,d33dac9f-a8c5-4a6e-9dbf-17f7618e6a84,a43ab640-6fdc-4cde-9208-f041a7899282,2017-08-01 06:10:09 +0000 UTC,completed,Real Fruit Smoothies,Strawberry,,4.75,,USD
+7,d33dac9f-a8c5-4a6e-9dbf-17f7618e6a84,a43ab640-6fdc-4cde-9208-f041a7899282,2017-08-01 06:10:09 +0000 UTC,completed,Croque Monsieur,,,7.45,,USD
+7,d33dac9f-a8c5-4a6e-9dbf-17f7618e6a84,a43ab640-6fdc-4cde-9208-f041a7899282,2017-08-01 06:10:09 +0000 UTC,completed,Gaufre Nutella,Nutella,,6.75,,USD
+7,8f4e41da-ab38-4fb6-9e44-3b2c191ce41c,712a0336-b835-4e4f-b74c-e1fbabb1d2f7,2017-07-30 13:57:38 +0000 UTC,completed,Mac and Cheese,,,4.99,,USD
+7,8f4e41da-ab38-4fb6-9e44-3b2c191ce41c,712a0336-b835-4e4f-b74c-e1fbabb1d2f7,2017-07-30 13:57:38 +0000 UTC,completed,Mozzarella Sticks,,,5.99,,USD
+7,1028f306-8a15-4544-8d5e-deed27899578,23e68a47-dc56-440f-9999-a64d1abff1e0,2017-07-30 13:46:16 +0000 UTC,completed,Double Chocolate Chip Brownie,,,6,,USD
+7,6c7bd340-ddd1-42ce-bd56-8b8b567fb986,031c6188-fde5-4f51-a160-afc3b7215a64,2017-07-28 12:12:56 +0000 UTC,completed,Citrus Mango Greens,24 oz,,5.95,,USD
+7,75913a50-c040-4c04-82c3-1ec56cfc401a,10dcc724-ed96-46f4-be4f-0fab7711d740,2017-07-29 19:56:46 +0000 UTC,completed,Double Burger (No Modifications),Cheese,,9,,USD
+7,bb06c00f-0d79-4969-a886-e808825f9651,618b9e46-936c-41ef-b6fe-ce56ff79a2af,2017-07-30 10:19:44 +0000 UTC,completed,Sesame Chicken,,,12.95,,USD
+7,c3751e95-9c8a-4e1e-96df-1404b9fcf984,8edeaef0-4876-402a-9381-2a369e07ce4f,2017-07-30 11:11:26 +0000 UTC,completed,Two Cheeseburger Special Combo,Sierra Mist,,8.19,,USD
+7,c3751e95-9c8a-4e1e-96df-1404b9fcf984,8edeaef0-4876-402a-9381-2a369e07ce4f,2017-07-30 11:11:26 +0000 UTC,completed,Buffalo Wings,Four Pieces,,3.79,,USD
+7,75913a50-c040-4c04-82c3-1ec56cfc401a,79a235b5-af51-407d-b944-43ff75f94bb0,2017-07-25 15:00:22 +0000 UTC,completed,Late Night Burger,Cheese,,7,,USD
+7,c3751e95-9c8a-4e1e-96df-1404b9fcf984,20afd5fc-2d11-48fc-8a36-87c51900e0c3,2017-07-25 07:46:54 +0000 UTC,completed,Double Gyros Cheese Burger,Pepsi,,6.99,,USD
